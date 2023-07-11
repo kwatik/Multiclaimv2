@@ -1,3 +1,1 @@
-website remove: 
-
-https://trxclaim.fun/
+script ui and website update
