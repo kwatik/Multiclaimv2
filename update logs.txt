@@ -1,1 +1,2 @@
-Added announcement and remove dead host
+host for claiming fey token is now back!!
+added thrird option which termux automatically download script 👍
