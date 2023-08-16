@@ -1,2 +1,5 @@
-remove: feypayu.top(dead host)
-added: dogepayu.top
+New host added: dgbpayu.top
+                ltcpayu.top
+
+Now you can modify the banner and link just edit the config.txt
+New script added and can be downloaded 👍
